@@ -1,2 +1,48 @@
-# titanic-ml-predictor
-🚢 Interactive Titanic Survival Predictor with stunning animations | ML-powered web app using Flask, scikit-learn &amp; beautiful CSS animations | Upload CSV → Get predictions with 85%+ accuracy
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Uploads
+uploads/
+temp/
